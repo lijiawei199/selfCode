@@ -1,0 +1,10 @@
+{"properties": [
+  {
+    "name": "acme.messaging.addresses",
+    "defaultValue": []
+  },
+  {
+    "name": "acme.messaging.container-type",
+    "defaultValue": "simple"
+  }
+]}
